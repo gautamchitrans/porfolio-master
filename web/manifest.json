@@ -1,0 +1,23 @@
+{
+    "name": "Gautam Chitransh",
+    "short_name": "Gautam Chitransh",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#1B1B1B",
+    "theme_color": "#1B1B1B",
+    "description": "Portfolio web app of Gautam Chitransh",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "assets/images/myimage.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/images/myimage.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
